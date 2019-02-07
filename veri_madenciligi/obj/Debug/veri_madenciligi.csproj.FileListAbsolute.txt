@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\bin\Debug\veri_madenciligi.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\bin\Debug\veri_madenciligi.exe
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\bin\Debug\veri_madenciligi.pdb
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.Form1.resources
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.exe
+c:\users\samet\documents\visual studio 2013\Projects\veri_madenciligi\veri_madenciligi\obj\Debug\veri_madenciligi.pdb
